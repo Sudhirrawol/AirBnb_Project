@@ -1,0 +1,27 @@
+.container {
+  background-color: #62306d;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-left: 50px;
+}
+.div1 {
+  background-color: #f7ec7d;
+  height: 150px;
+  width: 110px;
+  border-radius: 100%;
+}
+.div2 {
+  background-color: #f7ec7d;
+  height: 150px;
+  width: 110px;
+  border-radius: 60%;
+}
+.div3 {
+  background-color: #f7ec7d;
+  height: 150px;
+  width: 110px;
+  border-radius: 60%;
+}
